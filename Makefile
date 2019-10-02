@@ -2,4 +2,4 @@
 
 .PHONY: lint
 lint:
-	astyle --style=google *.cpp *.h
+	astyle --style=google *.cpp
